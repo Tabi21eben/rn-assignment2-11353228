@@ -10,4 +10,5 @@ This project is a simple React Native application created using Expo CLI. The ta
 - Making the name "YourName" bold.
 
 ### Screenshot
-![Screenshot_20240627-212427](https://github.com/Tabi21eben/rn-assignment2-11353228/assets/173632093/2bae13ac-f078-4502-b9c9-f684c9340377)
+![Screenshot_20240627-212427](https://github.com/Tabi21eben/rn-assignment2-11353228/assets/173632093/ccf30cad-5d0a-4b3a-b838-95bcbdb2c01e)
+
